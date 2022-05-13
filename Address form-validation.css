@@ -1,0 +1,20 @@
+body {
+    overflow: scroll;
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+.container {
+    max-width: 800px;
+}
+
+#add_address {
+    background-color: #4350c4;
+    border: brown;
+    border-radius: 50px;
+}
+
+#sep_line {
+    background-color: #4350c4;
+}

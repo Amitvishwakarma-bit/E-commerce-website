@@ -1,0 +1,60 @@
+/* use this to put borders around things... */
+
+.crop-img {
+    max-height: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.large-img {
+    max-width: 100%;
+    max-height: 100;
+    display: block;
+    margin: auto;
+}
+
+#size-option {
+    padding: 10px;
+}
+
+.prod_details .container {
+    position: relative;
+    top: 5%;
+}
+
+.prod_details {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 30px;
+}
+
+.sel-opt {
+    border-radius: 50px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: black;
+}
+
+.sel-opt:hover {
+    border-radius: 50px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+#Bag-btn {
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+
+#Bag-btn:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+    color: black;
+}
+
+
+/* .thubnail_img {
+    width: 100px;
+    height: 100px;
+} */

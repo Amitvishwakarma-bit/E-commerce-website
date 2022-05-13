@@ -1,0 +1,33 @@
+body{
+    background: linen;
+}
+h1{
+    background: lightgreen;
+}
+p{
+    border: 4px dotted blue;
+}
+#question2{
+    border: 2px solid black;
+    border-bottom-left-radius: 25px;
+    transform: rotate(45deg);
+    margin-left: 10%;
+}
+#q3{
+
+    border: 2px solid black;
+    border-bottom-left-radius: 25px;
+    margin-left: 10%;
+
+}
+#transition{
+    background: red;
+    width: 100px;
+    height: 100px;
+}
+#transition:hover{
+    transition: all;
+    transition-duration: 2s;  
+    width: 200px;
+
+}

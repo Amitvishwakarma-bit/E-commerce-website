@@ -1,0 +1,170 @@
+body {
+    background: linear-gradient(120deg, #2980b9, #8e44ad);
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.shopping_container {
+    /* border: 1px white solid; */
+    color: white;
+}
+
+.megacontainer {
+    border-radius: 30px;
+    color: rgb(255, 0, 0);
+    background-color: rgba(0, 0, 0, 0.15);
+}
+
+.con_01 {
+    position: relative;
+    top: 25px;
+    margin: 0% 0%;
+}
+
+.inner_sec_00 {
+    /* width: fit-content; */
+    /* height: fit-content; */
+    text-align: center;
+    vertical-align: center;
+    position: relative;
+    margin: 0%;
+}
+
+.inner_sec_01 {
+    /* width: fit-content; */
+    /* height: fit-content; */
+    text-align: center;
+    vertical-align: center;
+    position: relative;
+    margin: 0%;
+}
+
+.inner_sec_01 {
+    /* width: fit-content; */
+    /* height: fit-content; */
+    text-align: center;
+    vertical-align: center;
+    position: relative;
+    margin: 0%;
+}
+
+.shop_bag_text {
+    position: relative;
+    left: -7%;
+    margin: 0%;
+}
+
+.No_of_items {
+    /* width: fit-content; */
+    /* height: fit-content; */
+    text-align: center;
+    vertical-align: center;
+    position: relative;
+    top: 3%;
+    left: 30%;
+    margin: 0%;
+}
+
+.con_02 .sec_04 {
+    position: relative;
+    top: 0%;
+    margin: 0% 0%;
+}
+
+span {
+    width: fit-content;
+    text-align: center;
+    vertical-align: center;
+}
+
+div {
+    text-align: center;
+    vertical-align: center;
+}
+
+h5 {
+    width: fit-content;
+    text-align: center;
+    vertical-align: center;
+    padding: 15px 15px;
+    margin: 0% 0%;
+}
+
+p {
+    width: fit-content;
+    text-align: center;
+    vertical-align: center;
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+    font-style: bold;
+}
+
+span img {
+    width: 50%;
+    height: 100%;
+}
+
+
+/* .shop_bag_text,
+.No_of_items,
+.brand_name,
+.prod_price,
+.prod_details {
+    border: 1px solid white;
+    border-radius: 10px;
+} */
+
+
+/* use this to put borders around things... */
+
+.sec_05 {
+    text-align: center;
+    justify-content: center;
+}
+
+#Remove-btn {
+    width: 70%;
+    padding: 5px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+
+#Buy-btn {
+    width: 70%;
+    padding: 5px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+
+#Remove-btn:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+    color: black;
+}
+
+#Buy-btn:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+    color: black;
+}
+
+
+/* .thubnail_img {
+    width: 100px;
+    height: 100px;
+} */
